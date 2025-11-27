@@ -2,7 +2,7 @@
 
 An AI-powered tool that analyzes GitHub issues and provides structured insights to help developers and maintainers prioritize and triage issues more effectively.
 
-![Uploading image.png…]()
+![image alt](https://github.com/Aditi7Singh/github-issue-assistant/blob/4cb9bdbe95d0bcd299ea018b442f8890f477d676/image.png)
 
 
 
