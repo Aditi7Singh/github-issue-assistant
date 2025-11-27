@@ -2,7 +2,8 @@
 
 An AI-powered tool that analyzes GitHub issues and provides structured insights to help developers and maintainers prioritize and triage issues more effectively.
 
-/Users/aditisingh/Desktop
+![Uploading image.png…]()
+
 
 
 
