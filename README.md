@@ -1,7 +1,9 @@
 # 🐙 GitHub Issue Assistant
 
 An AI-powered tool that analyzes GitHub issues and provides structured insights to help developers and maintainers prioritize and triage issues more effectively.
+
 ![Uploading Screenshot 2025-11-27 at 6.26.26 PM.png…]()
+
 
 
 ## ✨ Features
